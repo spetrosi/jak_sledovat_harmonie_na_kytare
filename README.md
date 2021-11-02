@@ -30,7 +30,7 @@ Autor: [Sergei Petrosian](mailto:spetrosi@redhat.com)
 
 ![hmatnik_basy](https://www.cyberfretbass.com/wp-content/uploads/2014/12/natural-notes-and-sharps-on-bass-neck.gif)
 
-## Vzor molove a durove stupnice
+## Vzor durove a molove stupnice
 
 Kazda ***Durova (Major)*** stupnice se sklada s nasledujiciho vzoru:
 
@@ -40,11 +40,17 @@ Kazda ***Molova (Minor)*** stupnice se sklada s nasledujiciho vzoru:
 
 **Ton - Semiton - Ton - Ton - Semiton - Ton - Ton**
 
+## <!--fit--> Vzor durove a molove stupnice na hmatnice basy
+
+***Molova (Minor)  stupnice***
+![height:180px](https://smartbassguitar.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-27-at-1.06.48-PM.png)
+
+***Durova (Major)  stupnice***
+![height:180px](https://smartbassguitar.com/wp-content/uploads/2013/10/major-scale.png)
+
 ## Rytm
 
 ![bg right height:600px](https://i1.wp.com/juliajooya.com/wp-content/uploads/2020/12/rhythm-in-music-note-values-chart-US-note-names.png?resize=800%2C1133&ssl=1)
-
-
 
 ## Nota s teckou
 
