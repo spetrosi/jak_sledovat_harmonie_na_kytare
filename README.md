@@ -12,103 +12,45 @@ _class:
  - invert
 -->
 
-# Marp Action for GitHub
+# Jak sledovat harmonie na kytare
 
-Presentations to Webpages: Instantly!
+Autor: [Sergei Petrosian](mailto:spetrosi@redhat.com)
 
-## What?
+## Klavesnice Piana
 
-[Marp](https://marp.app/) lets you create slides from markdown (like this!).
+![piano_klavesnice](https://media.istockphoto.com/photos/topdown-view-of-piano-keyboard-keys-with-letters-of-notes-of-the-picture-id1035550740)
 
-[Marp Action](https://github.com/ralexander-phi/marp-action) lets you automatically deploy your presentation to [GitHub Pages](https://pages.github.com/).
+## Jak Najit Znaky Stupnic na Klavesech
 
-This presentation is both a [website](https://alexsci.com/test-marp-action) and a [README.md](https://github.com/ralexander-phi/test-marp-action/blob/dev/README.md).
+![](https://blog.sheetmusicplus.com/wp-content/uploads/2015/12/circle_of_fifths_deluxe_4-svg.png)
 
-## Why?
+## Hmatnik Kytary a Basy
 
-Treat your presentation the same way you treat code.
+![hmatnik_kytary](https://qph.fs.quoracdn.net/main-qimg-14e6af9f33d8f01f75ab875735c81244.webp)
 
-Use git to track changes. Pull requests to collaborate. Deploy to a webpage automatically.
+![hmatnik_basy](https://www.cyberfretbass.com/wp-content/uploads/2014/12/natural-notes-and-sharps-on-bass-neck.gif)
 
-See a bug? Open an issue or pull request!
+## Patterny molove a durove stupnice
 
-## Setup
+Kazda ***Durova (Major)*** stupnice se sklada s nasledujiciho patternu: 
 
-Want to create your own?
+**Ton - Ton - Semiton - Ton - Ton - Ton - Semiton**
 
-First, create a new repo [from the template repo](https://github.com/ralexander-phi/test-marp-action).
+Kazda ***Molova (Minor)*** stupnice se sklada s nasledujiciho patternu: 
 
-![](img/use-template.png)
+**Ton - Semiton - Ton - Ton - Semiton - Ton - Ton**
 
-## Configure GitHub Pages
+## Rytm
 
-[Setup publishing](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+![height:500px](https://i1.wp.com/juliajooya.com/wp-content/uploads/2020/12/rhythm-in-music-note-values-chart-US-note-names.png?resize=800%2C1133&ssl=1)
 
-Remember the branch and URL shown.
+## Nota s teckou
 
-## Update Workflow
+![](https://res.cloudinary.com/the-online-metronome/image/upload/v1631114705/theonlinemetronome/dotted_rhythms_get_half_b6e1568060_w4xaud.png)
 
-You'll update the workflow file over the next few slides. You can do this right in the GitHub web page (click on the pencil icon).
+## Priklad na HH Post-punku
 
-`.github/workflows/main.yml`
-
-## `BASE_URL`
-
-Set this to the domain you're using for GitHub Page (from earlier).
-
-If you add a custom domain later, you'll need to update this.
-
-## `PUBLISH_TO_BRANCH`
-
-Tell the build which branch you are using for GitHub Pages (you picked this earlier).
-
-This is likely either `main` or `gh-pages`. Set `PUBLISH_TO_BRANCH` to the correct branch.
-
-## Update Workflow
-
-Commit `.github/workflows/main.yml` back to `dev` branch.
-
-This will kick off a build.
-
-## Check if the build succeeded
-
-Click on Actions tab and see if the build succeeded.
-
-![](img/click-actions.png)
-
-## Load your new web page
-
-Any update to your site will take a few minutes to be visible. Be patient.
-
-## Create your slides
-
-Finally, start adding your own content.
-
-You can [install and run marp-cli](https://github.com/marp-team/marp-cli/blob/master/README.md) locally to test out the content before publishing.
-
-## Learn more about Marp
-
-This is a good time to learn more about Marp. Here's some resources:
-
-- [CommonMark](https://commonmark.org/)
-- [Cheat Sheet](https://commonmark.org/help/)
-- [Themes](https://github.com/marp-team/marp-core/tree/master/themes)
-- [CSS Themes](https://marpit.marp.app/theme-css)
-- [Directives](https://marpit.marp.app/directives)
-- [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
-
-## Example Sites
-
-Known sites using this action are:
-
-- [University of Illinois at Urbana-Champaign's CS 199 Even More Practice](https://cs199emp.netlify.app/) [(code)](https://github.com/harsh183/emp-125)
-- [Exploring agent based models](https://roiarthurb.github.io/Talk-UMMISCO_06-07-2020/) [(code)](https://github.com/RoiArthurB/Talk-UMMISCO_06-07-2020)
-
-Send a [pull request](https://github.com/ralexander-phi/test-marp-action) to get your site added.
-
-## Publish your slides
-
-When you are ready to share your presentation, commit or merge to `dev` and your content on GitHub Pages will automatically update.
+![width:1000px](post-punk.png)
 
 # 🎉
 <!--
@@ -116,6 +58,6 @@ _class:
  - lead
  - invert
 -->
-### Hooray!
-
-
+### Q&A
+Slajdy: https://spetrosi.github.io/jak_sledovat_harmonie_na_kytare/
+Zdroj slajdu: https://github.com/spetrosi/jak_sledovat_harmonie_na_kytare
